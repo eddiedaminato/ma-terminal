@@ -525,6 +525,7 @@ def main(ticker_symbol: str) -> None:
 
 if __name__ == "__main__":
 
+    print("="*70)
     print("MA TERMINAL - Strategic Financial Intelligence Platform")
     print("="*70)
     print("\nSupported Markets: NYSE, NASDAQ, LSE, TSE, B3, and 100+ global exchanges")
