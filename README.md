@@ -29,24 +29,17 @@ Supports **100+ stock exchanges worldwide**:
 
 # **Installation**
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/eddiedaminato/ma-terminal.git
-cd ma-terminal
-```
+0. **Download: (ma_terminal.py & requirements-ma_terminal.py)**
 
-2. **Install dependencies**
+1. **Install dependencies**
 ```bash
-pip install -r requirements.txt
+Windorws + R = CMD
+pip install -r requirements-ma_terminal.txt
 ```
-
-3. **Run the application**
+2. **Run the application**
 ```bash
 python ma_terminal.py
 
-**Sample Output**
-
-### **Console Analysis**
 ```
 
 # **Generated Artifacts**
