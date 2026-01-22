@@ -30,17 +30,18 @@ Supports **100+ stock exchanges worldwide**:
 # **Installation**
 
 0. **Download: (ma_terminal.py & requirements-ma_terminal.py)**
-
+```bash
+Windows + R: CMD
+```
 1. **Install dependencies**
 ```bash
-Windorws + R = CMD
 pip install -r requirements-ma_terminal.txt
 ```
 2. **Run the application**
 ```bash
 python ma_terminal.py
-
 ```
+---
 
 # **Generated Artifacts**
 - **Interactive Charts** (PNG, 300 DPI)
